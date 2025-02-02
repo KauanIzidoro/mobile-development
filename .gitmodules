@@ -1,0 +1,3 @@
+[submodule "projects/mobile-app"]
+	path = projects/mobile-app
+	url = git@github.com:KauanIzidoro/mobile-app.git
